@@ -1,0 +1,4 @@
+﻿  类模板案例-数组类封装.cpp
+D:\VS2022 code\C++codes\类模板学习\类模板学习\my_array.hpp(98): warning C4715: “MyArray<Person>::operator[]”: 不是所有的控件路径都返回值
+D:\VS2022 code\C++codes\类模板学习\类模板学习\my_array.hpp(98): warning C4715: “MyArray<int>::operator[]”: 不是所有的控件路径都返回值
+  类模板学习.vcxproj -> D:\VS2022 code\C++codes\类模板学习\x64\Debug\类模板学习.exe

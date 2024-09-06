@@ -1,0 +1,5 @@
+﻿  查找和替换.cpp
+D:\VS2022 code\C++codes\string容器\string容器\查找和替换.cpp(9,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\VS2022 code\C++codes\string容器\string容器\查找和替换.cpp(10,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\VS2022 code\C++codes\string容器\string容器\查找和替换.cpp(43,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  string容器.vcxproj -> D:\VS2022 code\C++codes\string容器\x64\Debug\string容器.exe

@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\VS2022 code\C++codes\vector容器\vector容器\main.cpp(93,25): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  vector容器.vcxproj -> D:\VS2022 code\C++codes\vector容器\x64\Debug\vector容器.exe
