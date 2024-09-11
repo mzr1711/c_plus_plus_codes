@@ -1,3 +1,0 @@
-﻿  main.cpp
-D:\VS2022 code\C++codes\停车场管理系统\停车场管理系统\main.cpp(441,19): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
-  停车场管理系统.vcxproj -> D:\VS2022 code\C++codes\停车场管理系统\x64\Debug\停车场管理系统.exe

@@ -1,3 +1,0 @@
-﻿  const修饰成员函数.cpp
-D:\VS2022 code\C++codes\对象模型和this指针\对象模型和this指针\const修饰成员函数.cpp(10,11): error C2178: 不能使用“mutable”说明符声明“m_age”
-D:\VS2022 code\C++codes\对象模型和this指针\对象模型和this指针\const修饰成员函数.cpp(10,1): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int

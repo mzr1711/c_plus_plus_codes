@@ -1,4 +1,0 @@
-﻿  main.cpp
-D:\VS2022 code\C++codes\函数提升\函数提升\main.cpp(66,6): error C2084: 函数“void func(int)”已有主体
-D:\VS2022 code\C++codes\函数提升\函数提升\main.cpp(58,6): message : 参见“func”的前一个定义
-D:\VS2022 code\C++codes\函数提升\函数提升\main.cpp(71,2): error C2264: “func”: 函数定义或声明中有错误；未调用函数

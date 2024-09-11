@@ -1,3 +1,0 @@
-﻿  main.cpp
-D:\VS2022 code\C++codes\分支限界法求解单源最短路径问题\分支限界法求解单源最短路径问题\main.cpp(84,24): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
-  分支限界法求解单源最短路径问题.vcxproj -> D:\VS2022 code\C++codes\分支限界法求解单源最短路径问题\x64\Debug\分支限界法求解单源最短路径问题.exe
