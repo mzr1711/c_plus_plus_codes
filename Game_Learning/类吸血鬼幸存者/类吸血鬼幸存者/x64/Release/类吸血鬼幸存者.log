@@ -1,9 +1,0 @@
-﻿  main.cpp
-D:\Code\Game_Learning\c-plus-plus-game-learning\类吸血鬼幸存者\类吸血鬼幸存者\main.cpp(458,69): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
-D:\Code\Game_Learning\c-plus-plus-game-learning\类吸血鬼幸存者\类吸血鬼幸存者\main.cpp(459,70): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
-D:\Code\Game_Learning\c-plus-plus-game-learning\类吸血鬼幸存者\类吸血鬼幸存者\main.cpp(468,12): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
-  正在生成代码
-  Previous IPDB not found, fall back to full compilation.
-  All 223 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
-  已完成代码的生成
-  类吸血鬼幸存者.vcxproj -> D:\Code\Game_Learning\c-plus-plus-game-learning\类吸血鬼幸存者\x64\Release\类吸血鬼幸存者.exe
